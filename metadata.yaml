@@ -1,0 +1,36 @@
+_repo: Mietteita-kasvatuksesta_62752
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lilius, Hjalmar Filip
+    alias: Lilius, Hj.
+    birthdate: 1858
+    deathdate: 1918
+    gutenberg_agent_id: '51977'
+    url: http://www.gutenberg.org/2009/agents/51977
+creator:
+  author:
+    agent_name: Kellner, Lorenz
+    alias: Kellner, L.
+    birthdate: 1811
+    deathdate: 1892
+    gutenberg_agent_id: '52101'
+    url: http://www.gutenberg.org/2009/agents/52101
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Lorenz_Kellner
+    - https://en.wikipedia.org/wiki/Lorenz_Kellner
+description: ''
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62752'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Education'
+- GITenberg
+title: Mietteitä kasvatuksesta
+url: http://www.gutenberg.org/ebooks/62752
